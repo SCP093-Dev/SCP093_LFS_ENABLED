@@ -39,6 +39,9 @@
 *.sdf
 *.VC.opendb
 
+# Generated assets
+*_BuiltData.uasset
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
